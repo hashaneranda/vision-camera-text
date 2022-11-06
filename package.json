@@ -1,6 +1,6 @@
 {
   "name": "vision-camera-text",
-  "version": "1.0.0",
+  "version": "1.0.8",
   "description": "VisionCamera Frame Processor Plugin to provide Text recognition support",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",

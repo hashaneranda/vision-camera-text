@@ -18,4 +18,3 @@ Pod::Spec.new do |s|
   s.dependency "React-Core"
   s.dependency "GoogleMLKit/TextRecognition", "3.1.0"
 end
-\users\chivelab\apps\chivelab_ios\build
